@@ -1,0 +1,2 @@
+C:\D\ExerciseDemo\NHibernateDemo\BsEf\BsEf\bin\Debug\BsEf.exe.config
+C:\D\ExerciseDemo\NHibernateDemo\BsEf\BsEf\bin\Debug\BsEf.Ui.exe.config
